@@ -21,7 +21,7 @@
     Title: <%= u.getTitle()%><br>
     Writer: <%= u.getWriter()%><br>
     Content: <%= u.getContent()%><br>
-    Category: <%= u.getContent()%><br>
+    Category: <%= u.getCategory()%><br>
 </p>
 </body>
 </html>
